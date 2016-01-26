@@ -138,7 +138,7 @@
 	left: 8px;
 }
 
-.sol-caret-container b.caret {
+.sol-caret-container b.sol-caret {
     display: inline-block;
     width: 0;
     height: 0;
